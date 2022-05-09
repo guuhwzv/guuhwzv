@@ -1,11 +1,5 @@
 # sobre mim
-- 👋 Hi, I’m @guuhwzv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-## meus trabalhos
-<!---
-guuhwzv/guuhwzv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ola, meu nome é Gustavo
+- meu email para contato é gustavo.aguiar.silva@escola.pr.gov.br
+- estou  interresado em aprender mais sobre aula de pensamento copuntacional.
+- estou aprendendo a programaçao JavasScrit,Scratch,P5js e Github.
